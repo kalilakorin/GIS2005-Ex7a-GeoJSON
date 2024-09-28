@@ -43,6 +43,6 @@ function createGeoJson() {
     
     // Write out the GeoJSON here by getting the myGeoJson div (hint: use getElementById on the document object)
     // set innerHTML = myGeoJsonStr
-    document.getElementById("myGeoJson").innerHTML = myGeoJsonStr;
+    document.getElementById("myJson").innerHTML = myGeoJsonStr;
   
   }
